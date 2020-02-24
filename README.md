@@ -1,4 +1,4 @@
-# cpp_calbacks
+# callback_system
 ` `  
 A c++ library that makes it easy to add "generic" callback functions to classes, with the abillity to:
 ` `  
